@@ -12,5 +12,5 @@ pub const VENUE_TYPE: &str = "Crypto";
 /// Strategies this venue runs on the shared engine.
 pub const STRATEGIES: &[&str] = &[
     "Orderbook Imbalance",
-    "Direction Hunting",
+    "Directional Arbitrage",
 ];
